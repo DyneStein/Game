@@ -65,4 +65,3 @@ To run the game on your system, you need to install the SFML library, which hand
 ---
 
 With SFML installed, you’re all set to jump into the action-packed world of Buzz Bomber! 🐝🎮
-```
